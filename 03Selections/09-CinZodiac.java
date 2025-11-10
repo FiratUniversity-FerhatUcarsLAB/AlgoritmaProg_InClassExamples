@@ -11,7 +11,7 @@ public class ChineseZodiac {
       case 0: System.out.println("monkey"); break;
       case 1: System.out.println("rooster"); break;
       case 2: System.out.println("dog"); break;
-      case 3: System.out.println("pig"); break;
+      case 3: System.out.println("lion"); break;
       case 4: System.out.println("rat"); break;
       case 5: System.out.println("ox"); break;
       case 6: System.out.println("tiger"); break;
